@@ -1,0 +1,1 @@
+Parameters used: num_samples = 10000, c = 1e-4, threshold freq = -1, topk = 250, default template/hogcell size, 
